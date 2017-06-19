@@ -1,3 +1,8 @@
+/**20160619
+AAAAAAAA
+BBBB
+CCCC
+*/
 /**
  * bxSlider v4.2.12
  * Copyright 2013-2015 Steven Wanderski
